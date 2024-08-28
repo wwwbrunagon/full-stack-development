@@ -1,1 +1,1 @@
-# gostack-bootcamp
+#### project based on full-stack development (Reactjs + Nodejs)
